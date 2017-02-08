@@ -1,0 +1,40 @@
+
+
+    font-family: 'Sansita', sans-serif;
+
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Caveat Brush', cursive;
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Amatic SC', cursive;
+
+    font-family: 'Shadows Into Light', cursive;
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Lobster Two', cursive;
+
+    font-family: 'Kaushan Script', cursive;
+
+    font-family: 'Neuton', serif;
+
+    font-family: 'Gentium Book Basic', serif;
+
+    font-family: 'Khula', sans-serif;
+
+    font-family: 'Rochester', cursive;
+
+    font-family: 'Yrsa', serif;
+
+%%% Standard %%%
+
+
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Caveat+Brush|Dancing+Script|Gentium+Book+Basic|Indie+Flower|Kaushan+Script|Khula|Lobster+Two|Neuton|Pacifico|Rochester|Sansita|Shadows+Into+Light|Yrsa" rel="stylesheet">
+
+%%% @IMPORT %%%
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Caveat+Brush|Dancing+Script|Gentium+Book+Basic|Indie+Flower|Kaushan+Script|Khula|Lobster+Two|Neuton|Pacifico|Rochester|Sansita|Shadows+Into+Light|Yrsa');
+</style> 
