@@ -121,3 +121,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+# Login page (When it is accessed directly, it will redirect a successful login
+# to the top-level index = the homepage of the blog.)
+
+LOGIN_REDIRECT_URL = '/'
